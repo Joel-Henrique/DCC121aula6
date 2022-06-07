@@ -1,4 +1,4 @@
-div {
+  div {
     background-color: darkgrey;
     color: black;
     display: block;
@@ -8,3 +8,16 @@ div {
   .test {
     background-color: yellow;
   }
+  #A{
+    background-color: aqua;
+  }
+  #B{
+    background-color: greenyellow;
+  }
+
+  .imgg{
+      width: 200px;
+      height: 200px;
+      border: 5px solid black; 
+      margin-top: 10px;
+     }
